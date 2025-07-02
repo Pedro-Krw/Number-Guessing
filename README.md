@@ -1,10 +1,12 @@
 # Tebak Angka Multiplayer (GUI)
 
-## Nama
-Nama Kamu
+## Nama Kelompok
+PEDRO T KORWA
+Faberizeir Ednar Gultom
 
 ## NRP
-NRP Kamu
+05111940007003
+05111940007004
 
 ## Cara Menjalankan
 
@@ -18,8 +20,6 @@ python server.py
 python client_gui.py
 ```
 
-## Protokol
-Format custom: `COMMAND:DATA`, misalnya `GUESS:25,email@example.com`
 
 ## Fitur
 - Multiplayer client-server
