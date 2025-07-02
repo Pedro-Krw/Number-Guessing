@@ -2,10 +2,12 @@
 
 ## Nama Kelompok
 PEDRO T KORWA
+##
 Faberizeir Ednar Gultom
 
 ## NRP
 05111940007003
+#
 05111940007004
 
 ## Cara Menjalankan
