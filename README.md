@@ -21,7 +21,10 @@ python server.py
 ```bash
 python client_gui.py
 ```
-
+### 3. Youtube Video
+```Link
+https://youtu.be/mV5KGvNmDCo
+```
 
 ## Fitur
 - Multiplayer client-server
